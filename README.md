@@ -8,6 +8,10 @@
 - 📌 **Feature Two** - Another key feature.
 - ⚡ **Feature Three** - More functionality described.
 
+## Projects
+
+[BB8](http://localhost:3000/docs/bb8)
+
 ## 📷 Screenshot
 
 ![Project Screenshot](https://via.placeholder.com/800x400 "Project Screenshot")
