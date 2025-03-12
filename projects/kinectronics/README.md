@@ -52,3 +52,9 @@ It is intendded to add a lot of features to the software. In mid-term, I'm plann
 ## Bibliography
 
 - [Vangos Pterneas](https://github.com/Vangos) His work was a great inspiration for this project. You can visit his [site](https://pterneas.com/).
+
+## Media
+
+![joints](https://github.com/JMRMEDEV/readme-fetch-test/blob/main/projects/kinectronics/media/images/joints.png)
+
+**Note**: Above is a media test.
