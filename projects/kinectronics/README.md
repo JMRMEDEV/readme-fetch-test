@@ -1,6 +1,6 @@
 # {Kinectronics}
 
-## Introduction
+## Introduction (edited)
 
 **Kinectronics** is an **API** (Application Programming Interface) and an **extensible application** (for graphic joint tracking) written in **C#** for **standard .NET framework**. It is inttended to be an easier and practical way to control (by programming) several devices such as **drones**, **mobile robots**, **robotic arms** and many more through **gesture recognition** by using **Microsoft's Kinect v2**.
 
